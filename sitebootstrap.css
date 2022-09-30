@@ -1,0 +1,118 @@
+
+body
+{
+	background: #0F0F0F;
+}
+
+html
+{
+	scroll-behavior: smooth;
+}
+
+.bg-light
+{
+	background-color: #0F0F0F!important;
+	border-bottom: 2px solid #999999;
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+	background-color: inherit;
+	color: red;
+}
+
+.navbar-toggler
+{
+	background-color: brown;
+}
+
+.presentation
+{
+	background-image:url(https://images3.alphacoders.com/882/thumb-1920-882548.jpg);
+	background-size: cover;
+	background-position:50% 100%;
+	padding-top: 23%;
+	padding-bottom: 23%;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-bottom: 60px;
+	border-bottom: 2px solid #999999;
+	text-align: center;
+}
+
+.textepresentation
+{
+	color: white;
+	font-size: 140%;
+	text-shadow: 3px 0px 5px rgba(0, 0, 0, 1);
+}
+
+.row
+{
+	background: brown;
+	margin-bottom: 60px;
+	border-top: 2px solid #999999;
+	border-bottom: 2px solid #999999;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 20%;
+	padding-right: 20%;
+	font-size: 60%;
+	text-align: center;
+}
+
+.col
+{
+	margin-bottom: 20px;
+}
+
+h2
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+h3
+{
+	color: black;
+}
+
+.textesaisons
+{
+	color: white;
+	font-size: 140%;
+}
+
+img
+{
+	border-radius: 10px;
+}
+
+#row-personnages
+{
+	background: white;
+}
+
+.col-sm-4
+{
+	padding-top: 20px;
+}
+
+p
+{
+	color: red;
+	font-size: 130%;
+}
+
+#divcarousel
+{
+	padding-left: 10%;
+	padding-right: 10%;
+	border-top: 2px solid #999999;
+}
